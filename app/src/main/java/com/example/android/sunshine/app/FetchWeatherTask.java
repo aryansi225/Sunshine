@@ -258,7 +258,7 @@ public class FetchWeatherTask extends AsyncTask<String, Void, Void> {
 
         String format = "json";
         String units = "metric";
-        String appid = "57a2128d1284c9b16435696e93a94158";
+        String appid = "API(Available from openweathermap)";
         int numDays = 14;
 
         try {
