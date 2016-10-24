@@ -86,7 +86,7 @@ public class SunshineSyncAdapter extends AbstractThreadedSyncAdapter {
 
         String format = "json";
         String units = "metric";
-        String appid = "API(Availaible from openweathermap)";
+        String appid = "API(Available from openweathermap)";
         int numDays = 14;
 
         try {
